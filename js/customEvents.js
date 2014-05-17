@@ -9,9 +9,9 @@ jQuery(function($) {
     });
 
     //vertical center
-    $('.menu').css({
+    $('.index-name').css({
         'top': '50%',
-        'margin-top': -$('.menu').height()/2
+        'margin-top': -$('.index-name').height()/2
     });
 
 });
