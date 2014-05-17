@@ -1,18 +1,21 @@
 /* general */
 html, body {
 	font-family: 'Raleway', sans-serif;
-	height: 100%;
 }
 
 /* index */
-.row .index-main {
-	max-height: 80%;
+.index-main {
+	height: 70%;
 }
 
-.row .menu {
-	max-height: 20%;
+.menu {
+	height: 30%;
 }
 
-.index-name {
-	margin: 5em auto;
+.index-main img {
+	height: 80%;
+}
+
+.index-name > h1 {
+	font-size: 4em;
 }
