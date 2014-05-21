@@ -1,0 +1,12 @@
+# Logfile created on 2014-05-08 13:08:54 -0400 by logger.rb/31641
+I, [2014-05-08T13:08:54.533701 #8836]  INFO -- : SITE is not configured in profile
+I, [2014-05-08T13:08:58.541102 #8836]  INFO -- : ----------Exiting--------\n
+I, [2014-05-08T13:09:24.491696 #8008]  INFO -- : SITE is not configured in profile
+I, [2014-05-08T13:09:27.601007 #8008]  INFO -- : Executing feature: Your Account Link
+I, [2014-05-08T13:09:27.722019 #8008]  INFO -- : ----------Exiting--------\n
+I, [2014-05-08T13:11:31.949441 #8780]  INFO -- : SITE is not configured in profile
+I, [2014-05-08T13:11:34.764722 #8780]  INFO -- : Executing feature: Your Account Link
+I, [2014-05-08T13:11:34.796726 #8780]  INFO -- : ----------Exiting--------\n
+I, [2014-05-08T13:13:58.398084 #9848]  INFO -- : SITE is not configured in profile
+I, [2014-05-08T13:14:01.527397 #9848]  INFO -- : Executing feature: Your Account Link
+I, [2014-05-08T13:14:01.560400 #9848]  INFO -- : ----------Exiting--------\n

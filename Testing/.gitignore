@@ -1,0 +1,7 @@
+screenshots/*
+report_*.html
+.project
+logs/watir.log
+config/main.rb
+*watir.log
+features/.cucumber/stepdefs.json

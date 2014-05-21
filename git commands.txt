@@ -1,0 +1,31 @@
+git commands
+
+git clone url - clones repos
+git checkout develop(Branch)
+git gui - opens gui
+
+*************************************************************
+
+go into dir
+checkout atg-project
+mvn clean install - builds project
+
+atg-project
+solarapi
+atg-shared
+atg-rewards
+
+build all - mvn clean install -f rewardsBuildAllPOM.xml
+
+*************************************************************
+
+start vm
+folder dev-ide-atg
+vagrant up - start
+vagrant halt - shut down
+vagrant reload - restart
+
+*************************************************************
+
+run - run.sh -c rewards | ATGLogColorizer_v1_2
+
