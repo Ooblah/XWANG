@@ -1,21 +1,24 @@
 /* general */
-html, body {
+body {
 	font-family: 'Raleway', sans-serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Ubuntu', sans-serif;
+}
+
 /* index */
-.index-main {
-	height: 70%;
+@media(min-width:767px) {
+    .brand-heading {
+        font-size: 60px;
+    }
 }
 
-.menu {
-	height: 30%;
-}
-
-.index-main img {
-	height: 80%;
-}
-
-.index-name > h1 {
-	font-size: 4em;
+.intro {
+	text-align: left
 }

@@ -1,7 +1,8 @@
-$(document).ready(function(){
+$(document).ready(function() {
   	$.adaptiveBackground.run();
-});
 
+
+});
 
 //scroll effects
 $(window).scroll(function() {
