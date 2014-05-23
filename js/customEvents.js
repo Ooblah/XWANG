@@ -1,7 +1,16 @@
 $(document).ready(function() {
   	$.adaptiveBackground.run();
 
-
+  	/*if ($(window).width() > 991) {
+  		$('.intro-side').hover(
+  			function(e) {
+  				$('.intro-desc').fadeIn('fast');
+  			},
+  			function(e) {
+  				$('.intro-desc').fadeOut('fast');
+  			}
+  		);
+  	}*/
 });
 
 //scroll effects

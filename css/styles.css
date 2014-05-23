@@ -12,13 +12,78 @@ h6 {
 	font-family: 'Ubuntu', sans-serif;
 }
 
+@media(min-width: 767px) {
+	p {
+		margin: 0 0 10px;
+	}
+}
+
+@media(max-width: 767px) {
+	p {
+		margin: 0 0 7px;
+	}
+}
+
 /* index */
+.navbar {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.intro-scroll {
+	text-align: center;
+}
+
 @media(min-width:767px) {
     .brand-heading {
-        font-size: 60px;
+        font-size: 62px;
     }
 }
 
-.intro {
-	text-align: left
+@media(min-width: 991px) {
+	.intro {
+		text-align: left
+	}
+}
+
+@media(min-width: 991px) {
+	.intro-img {
+		display: block;
+		position: relative;
+		float: left;
+	}
+	.intro-desc {
+		display: none;
+		position: absolute;
+		float: left;
+	}
+	.intro-scroll {
+		display: block;
+	}
+	.intro-scroll2 {
+		display: none;
+	}
+}
+
+@media(max-width: 991px) {
+	.intro-img {
+		display: none;
+		position: relative;
+		float: none;
+	}
+	.intro-desc {
+		display: block;
+		position: relative;
+		float: none;
+	}
+	.intro-scroll {
+		display: none;
+	}
+	.intro-scroll2 {
+		display: block;
+	}
+}
+
+.intro-img {
+	max-width: 100%;
+	max-height: 100%;
 }
